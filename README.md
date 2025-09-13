@@ -1,10 +1,10 @@
 # Coffee-sales-analysis
 
-<H1>**Coffee Sales Analysis Dashboard</H1>
+<H1>Coffee Sales Analysis Dashboard</H1>
 
 This dashboard presents a comprehensive analysis of coffee sales across three Starbucks locations: Astoria, Hell's Kitchen, and Lower Manhattan. The visualized data includes sales trends, product performance, and transaction patterns to support decision-making and strategy adjustments.
 
-📊 Overview
+<H1>📊 Overview</H1>
 
 The dashboard is divided into the following key sections:
 
@@ -20,13 +20,13 @@ Lower Manhattan
 
 Selection allows filtering insights per location.
 
-⏰ Daily Pattern
+<H1>⏰ Daily Pattern</H1>
 
 Displays the percentage of total transactions by hour (6 AM to 8 PM).
 
 Peak hours: 8 AM to 10 AM, with 9 AM being the highest at 12.44% of daily transactions.
 
-📅 Weekly Pattern
+<H1>📅 Weekly Pattern</H1>
 
 Distribution of transactions across the week.
 
@@ -40,7 +40,7 @@ Wednesday (14.29%)
 
 Lowest traffic: Sunday (13.75%)
 
-📈 Revenue by Month
+<H1>📈 Revenue by Month</H1>
 
 Shows monthly revenue growth from January to June:
 
@@ -54,7 +54,7 @@ Shortfall: -$5,914.66
 
 Next month (July) target: $183,134.47
 
-🛍️ Top-Selling Items
+<H1>🛍️ Top-Selling Items</H1>
 By Revenue:
 Product	Revenue
 Sustainably Grown Organic Lg	$21,151.75
@@ -66,7 +66,7 @@ Product	Units Sold	Revenue
 Morning Sunrise Chai	158	$1,596.00
 Serenity Green Tea	163	$1,584.00
 English Breakfast	161	$1,533.00
-✅ Summary
+<H1>✅ Summary</H1>
 
 June Sales: $166,485.88
 
@@ -76,7 +76,7 @@ Shortfall: -$5,914.66
 
 Goal for July: $183,134.47
 
-📌 Key Insights
+<H1>📌 Key Insights</H1>
 
 Morning sales dominate, especially between 8 AM - 10 AM.
 
@@ -86,7 +86,7 @@ Popularity leans heavily toward large-sized drinks, especially sustainably grown
 
 While June revenue increased, it missed the set target, highlighting a need for promotional or operational adjustments.
 
-📁 File Details
+<H1>📁 File Details</H1>
 
 File Name: coffee_sales_analysis.png
 
@@ -94,6 +94,6 @@ Format: Dashboard Image
 
 Tool: Presumably Excel or Power BI
 
-📬 Contact
+<H1>📬 Contact</H1>
 
 For more details or data inquiries, contact the analytics team or the project lead.
