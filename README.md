@@ -25,14 +25,14 @@ Lower Manhattan
 Selection allows filtering insights per location.
 
 <H1>⏰ Daily Pattern:</H1>
-<img width="2631" height="1314" alt="Daily pattern" src="https://github.com/user-attachments/assets/4792b20a-463d-4483-9a24-127cbb736c8f" />
+<img width="778" height="377" alt="Daily pattern" src="https://github.com/user-attachments/assets/4792b20a-463d-4483-9a24-127cbb736c8f" />
 
 Displays the percentage of total transactions by hour (6 AM to 8 PM).
 
 Peak hours: 8 AM to 10 AM, with 9 AM being the highest at 12.44% of daily transactions.
 
 <H1>📅 Weekly Pattern:</H1>
-<img width="1765" height="1053" alt="Weekly pattern" src="https://github.com/user-attachments/assets/3230e5ec-9064-4ec5-867d-572fccbd5117" />
+<img width="778" height="377" alt="Weekly pattern" src="https://github.com/user-attachments/assets/3230e5ec-9064-4ec5-867d-572fccbd5117" />
 
 Distribution of transactions across the week.
 
@@ -47,7 +47,7 @@ Wednesday (14.29%)
 Lowest traffic: Sunday (13.75%)
 
 <H1>📈 Revenue by Month:</H1>
-<img width="1754" height="1053" alt="Revenue" src="https://github.com/user-attachments/assets/d3b31eb1-f167-4546-aca4-c1be12fdcf27" />
+<img width="778" height="377" alt="Revenue" src="https://github.com/user-attachments/assets/d3b31eb1-f167-4546-aca4-c1be12fdcf27" />
 
 Shows monthly revenue growth from January to June:
 
