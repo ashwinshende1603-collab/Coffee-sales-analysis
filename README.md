@@ -1,15 +1,15 @@
 # Coffee-sales-analysis
 ![starbucks coffee](https://assets.gqindia.com/photos/5cdc75d38e62990b13f38389/16:9/w_1920,c_limit/starbucks-cup-hed-2013.jpg)
-<H1>Coffee Sales Analysis Dashboard</H1>
+<H1>Tool Used:</H1>
+<H1>Coffee Sales Analysis Dashboard:</H1>
 <img width="978" height="577" alt="Coffee sales analysis dashboard" src="https://github.com/user-attachments/assets/b3e57ca4-e2d7-47fe-9371-eda9894bf2bc" />
 
 This dashboard presents a comprehensive analysis of coffee sales across three Starbucks locations: Astoria, Hell's Kitchen, and Lower Manhattan. The visualized data includes sales trends, product performance, and transaction patterns to support decision-making and strategy adjustments.
 
-<H1>📊 Overview</H1>
+<H1>📊 Overview:</H1>
 
-The dashboard is divided into the following key sections:
-
-1. Store Locations
+The dashboard is divided into the following key section:
+Store Locations
 
 Analyzed locations:
 
@@ -21,14 +21,14 @@ Lower Manhattan
 
 Selection allows filtering insights per location.
 
-<H1>⏰ Daily Pattern</H1>
+<H1>⏰ Daily Pattern:</H1>
 <img width="2631" height="1314" alt="Daily pattern" src="https://github.com/user-attachments/assets/4792b20a-463d-4483-9a24-127cbb736c8f" />
 
 Displays the percentage of total transactions by hour (6 AM to 8 PM).
 
 Peak hours: 8 AM to 10 AM, with 9 AM being the highest at 12.44% of daily transactions.
 
-<H1>📅 Weekly Pattern</H1>
+<H1>📅 Weekly Pattern:</H1>
 <img width="1765" height="1053" alt="Weekly pattern" src="https://github.com/user-attachments/assets/3230e5ec-9064-4ec5-867d-572fccbd5117" />
 
 Distribution of transactions across the week.
@@ -43,7 +43,7 @@ Wednesday (14.29%)
 
 Lowest traffic: Sunday (13.75%)
 
-<H1>📈 Revenue by Month</H1>
+<H1>📈 Revenue by Month:</H1>
 <img width="1754" height="1053" alt="Revenue" src="https://github.com/user-attachments/assets/d3b31eb1-f167-4546-aca4-c1be12fdcf27" />
 
 Shows monthly revenue growth from January to June:
@@ -58,7 +58,7 @@ Shortfall: -$5,914.66
 
 Next month (July) target: $183,134.47
 
-<H1>🛍️ Top-Selling Items</H1>
+<H1>🛍️ Top-Selling Items:</H1>
 <img width="532" height="282" alt="Top Items" src="https://github.com/user-attachments/assets/6cc52c37-9f75-4d2f-a694-69ac5ce3eb27" />
 
 By Revenue:
@@ -91,14 +91,6 @@ Friday is the most active day for transactions.
 Popularity leans heavily toward large-sized drinks, especially sustainably grown options and chocolate-based drinks.
 
 While June revenue increased, it missed the set target, highlighting a need for promotional or operational adjustments.
-
-<H1>📁 File Details</H1>
-
-File Name: coffee_sales_analysis.png
-
-Format: Dashboard Image
-
-Tool: Presumably Excel or Power BI
 
 <H1>📬 Contact</H1>
 
