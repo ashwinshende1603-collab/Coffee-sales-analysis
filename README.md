@@ -1,6 +1,5 @@
 # Coffee-sales-analysis
 ![starbucks coffee](https://assets.gqindia.com/photos/5cdc75d38e62990b13f38389/16:9/w_1920,c_limit/starbucks-cup-hed-2013.jpg)
-
 <H1>Coffee Sales Analysis Dashboard</H1>
 <img width="978" height="577" alt="Coffee sales analysis dashboard" src="https://github.com/user-attachments/assets/b3e57ca4-e2d7-47fe-9371-eda9894bf2bc" />
 
