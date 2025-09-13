@@ -60,6 +60,8 @@ Shortfall: -$5,914.66
 Next month (July) target: $183,134.47
 
 <H1>🛍️ Top-Selling Items</H1>
+<img width="532" height="282" alt="Top Items" src="https://github.com/user-attachments/assets/6cc52c37-9f75-4d2f-a694-69ac5ce3eb27" />
+
 By Revenue:
 Product	Revenue
 Sustainably Grown Organic Lg	$21,151.75
