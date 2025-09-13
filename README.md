@@ -2,7 +2,7 @@
 ![starbucks coffee](https://assets.gqindia.com/photos/5cdc75d38e62990b13f38389/16:9/w_1920,c_limit/starbucks-cup-hed-2013.jpg)
 
 <H1>Coffee Sales Analysis Dashboard</H1>
-
+![Analysis Dashboard]("C:\Users\VICTUS\Pictures\Screenshots\Coffee sales analysis dashboard.png")
 This dashboard presents a comprehensive analysis of coffee sales across three Starbucks locations: Astoria, Hell's Kitchen, and Lower Manhattan. The visualized data includes sales trends, product performance, and transaction patterns to support decision-making and strategy adjustments.
 
 <H1>📊 Overview</H1>
