@@ -5,7 +5,7 @@
 <img width="187" height="188" alt="Excel" src="https://github.com/user-attachments/assets/2a96bd55-c3c6-4279-b043-cb6c819fd0c8" />
 
 <H1>Coffee Sales Analysis Dashboard:</H1>
-<img width="742" height="490" alt="Starbucks_Dashboard" src="https://github.com/user-attachments/assets/4586a24e-4e12-43e4-9022-c7e47fbbdef7" />
+<img width="957" height="752" alt="starbucks_dashboard" src="https://github.com/user-attachments/assets/144f6748-82ac-49d2-8911-4792b0c68c05" />
 
 This dashboard presents a comprehensive analysis of coffee sales across three Starbucks locations: Astoria, Hell's Kitchen, and Lower Manhattan. The visualized data includes sales trends, product performance, and transaction patterns to support decision-making and strategy adjustments.
 
