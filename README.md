@@ -1,4 +1,5 @@
-# Coffee-sales-analysis
+# STRABUCKS - COFFEE SALES ANALYSIS
+
 ![starbucks coffee](https://assets.gqindia.com/photos/5cdc75d38e62990b13f38389/16:9/w_1920,c_limit/starbucks-cup-hed-2013.jpg)
 
 <H1>Tool Used:</H1>
