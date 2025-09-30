@@ -1,6 +1,6 @@
 # STRABUCKS - COFFEE SALES ANALYSIS
 
-![starbucks coffee](https://assets.gqindia.com/photos/5cdc75d38e62990b13f38389/16:9/w_1920,c_limit/starbucks-cup-hed-2013.jpg)
+![starbucks coffee](https://eu-images.contentstack.com/v3/assets/bltea7aee2fca050a19/bltcc157be03a336644/6724e088ca36fb0e631eeb88/Starbucks-HOTC.jpg?width=1280&auto=webp&quality=80&disable=upscale)
 
 <H1>Tool Used:</H1>
 <img width="187" height="188" alt="Excel" src="https://github.com/user-attachments/assets/2a96bd55-c3c6-4279-b043-cb6c819fd0c8" />
